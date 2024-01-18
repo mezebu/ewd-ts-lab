@@ -12,7 +12,6 @@ const friend2: Friend = {
   phone: "086--12345",
   age: 31,
   interests: ["Football", "Running"],
-  dob: new Date("1993-10-02"),
 };
 
 export const friends: Friend[] = [friend1, friend2];
